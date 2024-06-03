@@ -41,5 +41,3 @@ To add your project to the list follow the instructions [here](/README.md)
 - Ecosystem Tools
 - Growth apps
 - (Propose a new category if needed)
-
-
